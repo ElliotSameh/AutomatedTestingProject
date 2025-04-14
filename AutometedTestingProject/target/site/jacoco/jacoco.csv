@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+AutomatedTestingProject Maven Webapp,com.students,DateConverter.DateFormats,0,322,0,0,0,26,0,3,0,3
+AutomatedTestingProject Maven Webapp,com.students,Quadratic,17,302,2,32,9,64,3,21,1,6
+AutomatedTestingProject Maven Webapp,com.students,NotEnoughPrecisionException,0,7,0,0,0,4,0,2,0,2
+AutomatedTestingProject Maven Webapp,com.students,DateConverter,25,375,1,7,14,80,2,23,1,20
